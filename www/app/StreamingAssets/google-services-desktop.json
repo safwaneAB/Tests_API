@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737754350387",
+    "firebase_url": "https://nightly-f12d5-default-rtdb.firebaseio.com",
+    "project_id": "nightly-f12d5",
+    "storage_bucket": "nightly-f12d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737754350387:android:5566b8fa7fddc6a05ff446",
+        "android_client_info": {
+          "package_name": "com.AmirBaradaranRahmaniLLC.LateNightShow2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737754350387-89jghett0jdbl79oallqq47hh7k8qpm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX77moirdTR8w3-p8NI8BHI6KezNa3bzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737754350387-89jghett0jdbl79oallqq47hh7k8qpm6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737754350387-9k4knucjm8obsg0jnk203pn7m0imnk6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AmirBaradaranRahmaniLLC.LateNightShow2020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
